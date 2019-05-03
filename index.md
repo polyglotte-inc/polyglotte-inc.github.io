@@ -22,7 +22,4 @@ Our multilingual keyboards adapt to this configuration with or without the â€˜Lâ
 
 
 
-U.S. Patent 10078375
-
-
-[Link to google](https://google.com)
+[U.S. Patent 10078375](https://patents.justia.com/inventor/maria-daniela-semeco)
