@@ -6,7 +6,7 @@ The Polyglotte® keyboard is made for cross-cultural communication and lets you 
 
 The idea was born in February 2011. We had a limited budget and used resources at hand. Family and friends helped launch the first prototypes and mobile applications.
 
-In September, 2014 Apple opened its doors to third-party keyboards, and our universal app (for iPhone, iPad, and iPod Touch) hit the market March 30th, 2015. With this new product, we introduced keyboard localization for the first time (QWERTY, AZERTY, QWERTZ).
+In September, 2014 Apple opened its doors to third-party keyboards, and our [universal app](https://itunes.apple.com/us/app/id946591425) (for iPhone, iPad, and iPod Touch) hit the market March 30th, 2015. With this new product, we introduced keyboard localization for the first time (QWERTY, AZERTY, QWERTZ).
 
 Our keyboard now supports 25 languages and more than 250 symbols. Type in multiple languages without losing your train of thought, stopping to look up a special character, or Googling a word to copy and paste it into your document.
 
