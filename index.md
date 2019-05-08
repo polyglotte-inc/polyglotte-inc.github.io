@@ -1,6 +1,6 @@
 # TYPE IN MULTIPLE LANGUAGES WITH A SINGLE KEYBOARD.
 
-What is the Polyglotte® multilingual keyboard?
+What is the Polyglotte® [multilingual keyboard](https://patents.justia.com/inventor/maria-daniela-semeco)?
  
 The Polyglotte® keyboard is made for cross-cultural communication and lets you type correctly in multiple languages without slowing down! Our novel keyboard design is a software solution that works with a physical computer keyboard as well as mobile devices. We overcame the challenge of creating a solution that spans all platforms, whether you write on an iPad or touch type.
 
