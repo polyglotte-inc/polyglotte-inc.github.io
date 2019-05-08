@@ -14,7 +14,7 @@ Because few people speak 25 languages, we’ve made our keyboard customizable. U
 
 Our new mechanical keycap sets are also compatible with ISO.
 
-What is ISO and why does it matter?
+What is [ISO](https://deskthority.net/wiki/ANSI_vs_ISO) and why does it matter?
 
 ISO is used in many countries in the world. Its familiarity makes it important, because people are busy, and stopping to learn a new keyboard layout is a time-consuming hassle. ISO layouts have a shortened left ‘Shift’ key and an extra key cap to the left of the ‘Z’ key (if you’re typing QWERTY). They also have an ‘L’ shaped ‘Enter’ key.
 
