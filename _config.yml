@@ -1,9 +1,9 @@
 title: Polyglotte
 author: Daniela Semeco, CEO
 description: > # this means to ignore newlines until "show_excerpts:"
-  Type in multiple languages with a single keyboard.
+  „By words the mind is winged.“ -Aristophanes
 show_excerpts: false # set to true to show excerpts on the homepage
-email: polyglotte.inc@gmail.com
+email: daniela@polykeyboards.com
 url: https://www.polykeyboards.com/
 theme: minima
 github:
