@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Type in multiple languages with a single keyboard.
 show_excerpts: false # set to true to show excerpts on the homepage
 email: polyglotte.inc@gmail.com
+url: https://www.polykeyboards.com/
 theme: minima
 github:
   is_project_page: false
