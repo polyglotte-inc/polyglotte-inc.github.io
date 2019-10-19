@@ -7,6 +7,7 @@ email: daniela@polykeyboards.com
 url: https://www.polykeyboards.com/
 theme: minima
 header_pages:
+  - index.md
   - privacypolicy.md
 github:
   is_project_page: false
