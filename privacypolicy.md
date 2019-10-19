@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+showtop: true
 ---
 
 Privacy Policy of CircleCalc
