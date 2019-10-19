@@ -1,6 +1,6 @@
 title:
 logo: polyglotte logo_r_high res.png
 email: polyglotte.inc@gmail.com
-theme: jekyll-theme-minimal
+theme: minima
 github:
   is_project_page: false
