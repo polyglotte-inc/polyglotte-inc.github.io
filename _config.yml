@@ -1,8 +1,11 @@
 title: Polyglotte
 logo: polyglotte logo_r_high res.png
+author: Daniela Semeco
+description: > # this means to ignore newlines until "show_excerpts:"
+  Type in multiple languages with a single keyboard.
+show_excerpts: false # set to true to show excerpts on the homepage
 email: polyglotte.inc@gmail.com
 theme: minima
-show_excerpts: false # set to true to show excerpts on the homepage
 github:
   is_project_page: false
 
