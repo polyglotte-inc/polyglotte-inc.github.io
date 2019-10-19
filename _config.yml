@@ -6,6 +6,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 email: daniela@polykeyboards.com
 url: https://www.polykeyboards.com/
 theme: minima
+header_pages:
+  - privacypolicy.md
 github:
   is_project_page: false
 
