@@ -1,4 +1,6 @@
-# TYPE IN MULTIPLE LANGUAGES WITH A SINGLE KEYBOARD.
+---
+Title: TYPE IN MULTIPLE LANGUAGES WITH A SINGLE KEYBOARD.
+---
 
 What is the Polyglotte® [multilingual keyboard](https://patents.justia.com/inventor/maria-daniela-semeco)?
  
