@@ -3,20 +3,19 @@ title: Privacy Policy
 showtop: true
 ---
 
-Privacy Policy of CircleCalc
+Privacy Policy of Polyglotte İnc.
 
-This app does not collect any Personal Data.
+This Website does not collect any Personal Data.
 
 NO third-party Personal Data is obtained, published or
-shared through this Application
+shared through this Website
 
 NO Personal Data shall be processed and stored by us.
 
 
 The Owner reserves the right to make changes to this
-privacy policy in future releases at any time by giving
-notice to its Users on this page and possibly within
-this Application and/or - as far as technically and
+privacy policy in the future at any time by giving
+notice to its Users on this page - as far as technically and
 legally feasible - sending a notice to Users via any
 contact information available to the Owner. It is
 strongly recommended to check this page often, referring
