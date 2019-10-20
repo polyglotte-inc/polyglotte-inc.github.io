@@ -8,7 +8,7 @@ Privacy Policy of Polyglotte İnc.
 This Website does not collect any Personal Data.
 
 NO third-party Personal Data is obtained, published or
-shared through this Website
+shared through this Website.
 
 NO Personal Data shall be processed and stored by us.
 
