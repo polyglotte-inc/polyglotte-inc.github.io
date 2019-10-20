@@ -24,3 +24,5 @@ to the date of the last modification listed at the bottom.
 Should the changes affect processing activities performed
 on the basis of the User’s consent, the Owner shall collect
 new consent from the User, where required.
+
+Last updated: October 19, 2019
