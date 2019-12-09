@@ -24,4 +24,6 @@ showtop: true
 {% endcapture %}
 {{ includeStickers | replace: '    ', ''}}
 
+# Learn more
+
 [Download our free iPhone/iPad app](https://apps.apple.com/us/app/id946591425)
