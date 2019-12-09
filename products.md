@@ -24,4 +24,4 @@ showtop: true
 {% endcapture %}
 {{ includeStickers | replace: '    ', ''}}
 
-REPLACE
+[Polyglotte keyboard app](https://apps.apple.com/us/app/id946591425)
