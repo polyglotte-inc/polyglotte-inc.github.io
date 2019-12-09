@@ -5,7 +5,10 @@ showtop: true
 
 # Keyboards
 
+{% capture includeKeyboard %}
 {% include keyboard.html %}
+{% endcapture %}
+{{ includeKeyboard | replace: '    ', ''}}
 
 # Keycaps
 
@@ -16,6 +19,9 @@ showtop: true
 
 # Stickers
 
-{% include stickers.html %}
+{% capture includeStickers %}
+{% include stickers.html %} 
+{% endcapture %}
+{{ includeStickers | replace: '    ', ''}}
 
 REPLACE
