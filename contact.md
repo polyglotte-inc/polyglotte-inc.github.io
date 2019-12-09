@@ -3,4 +3,6 @@ title: Contact Us
 showtop: true
 ---
 
-REPLACE
+Questions?
+---
+Please contact us at info@polykeyboards.com
