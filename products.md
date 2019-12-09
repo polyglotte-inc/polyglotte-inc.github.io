@@ -24,4 +24,4 @@ showtop: true
 {% endcapture %}
 {{ includeStickers | replace: '    ', ''}}
 
-[Polyglotte keyboard app](https://apps.apple.com/us/app/id946591425)
+[Download our free iPhone/iPad app](https://apps.apple.com/us/app/id946591425)
