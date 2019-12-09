@@ -9,7 +9,10 @@ showtop: true
 
 # Keycaps
 
-{% include keycaps.html %}
+{% capture includeKeycaps %}
+{% include keycaps.html %} 
+{% endcapture %}
+{{ includeKeycaps | replace: '    ', ''}}
 
 # Stickers
 
