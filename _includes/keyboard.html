@@ -1,4 +1,4 @@
-<div id='collection-component-1575877085788'></div>
+<div id='collection-component-1582956889487'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -27,7 +27,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: '159048204340',
-        node: document.getElementById('collection-component-1575877085788'),
+        node: document.getElementById('collection-component-1582956889487'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -38,7 +38,40 @@
           "margin-left": "20px",
           "margin-bottom": "50px",
           "width": "calc(25% - 20px)"
+        },
+        "img": {
+          "height": "calc(100% - 15px)",
+          "position": "absolute",
+          "left": "0",
+          "right": "0",
+          "top": "0"
+        },
+        "imgWrapper": {
+          "padding-top": "calc(75% + 15px)",
+          "position": "relative",
+          "height": "0"
         }
+      },
+      "title": {
+        "font-weight": "normal"
+      },
+      "button": {
+        ":hover": {
+          "background-color": "#209cc9"
+        },
+        "background-color": "#24addf",
+        ":focus": {
+          "background-color": "#209cc9"
+        }
+      },
+      "price": {
+        "font-size": "16px"
+      },
+      "compareAt": {
+        "font-size": "13.6px"
+      },
+      "unitPrice": {
+        "font-size": "13.6px"
       }
     },
     "text": {
@@ -68,6 +101,15 @@
           "margin-left": "0px",
           "margin-bottom": "0px"
         }
+      },
+      "button": {
+        ":hover": {
+          "background-color": "#209cc9"
+        },
+        "background-color": "#24addf",
+        ":focus": {
+          "background-color": "#209cc9"
+        }
       }
     },
     "text": {
@@ -75,9 +117,33 @@
     }
   },
   "cart": {
+    "styles": {
+      "button": {
+        ":hover": {
+          "background-color": "#209cc9"
+        },
+        "background-color": "#24addf",
+        ":focus": {
+          "background-color": "#209cc9"
+        }
+      }
+    },
     "text": {
       "total": "Subtotal",
       "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#24addf",
+        ":hover": {
+          "background-color": "#209cc9"
+        },
+        ":focus": {
+          "background-color": "#209cc9"
+        }
+      }
     }
   }
 },
