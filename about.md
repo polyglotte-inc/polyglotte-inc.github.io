@@ -21,7 +21,7 @@ What is [ISO](https://deskthority.net/wiki/ANSI_vs_ISO) and why does it matter?
 
 ISO is used in many countries in the world. Its familiarity makes it important, because people are busy, and stopping to learn a new keyboard layout is a time-consuming hassle. ISO layouts have a shortened left ‘Shift’ key and an extra key cap to the left of the ‘Z’ key (if you’re typing QWERTY). They also have an ‘L’ shaped ‘Enter’ key.
 
-Our multilingual keyboards adapt to this configuration with or without the ‘L’ shaped ‘Enter’. The reality is that few keycap sets in the world conform to ISO. We offer both possibilities for those who like to mix and match keycaps.
+Our multilingual keyboards adapt to this configuration with or without the ‘L’ shaped ‘Enter’. The reality is that few keycap sets in the world conform to ISO. We offer both possibilities.
 
 
 
