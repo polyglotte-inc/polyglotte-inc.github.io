@@ -26,4 +26,4 @@ showtop: true
 
 # Learn more
 
-[Download our free iPhone/iPad app](https://apps.apple.com/us/app/id946591425)
+[Download our free iPad app](https://apps.apple.com/app/id1501301014?fbclid=IwAR3qle-14GnFKx6ruXGtMS9UiuayVF7Bq0zMyil1uhym5t3ABE61JkUu2SI)
