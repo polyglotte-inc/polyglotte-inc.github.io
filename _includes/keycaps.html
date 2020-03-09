@@ -30,7 +30,17 @@
         node: document.getElementById('collection-component-1583009461259'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
-  "product": {
+  product: {
+    buttonDestination: 'modal',
+    order: [
+      'img',
+      'title',
+      'price',
+      'button',
+    ],
+    contents: {
+      description: true,
+    },
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
@@ -63,7 +73,7 @@
       }
     },
     "text": {
-      "button": "Add to cart"
+      "button": "More Details"
     }
   },
   "productSet": {
@@ -76,11 +86,18 @@
     }
   },
   "modalProduct": {
+    width: '1024px',
+    templates: {
+      img: '<img class="{{data.classes.product.img}}" src="{{data.currentImage.src}}" data-element="product.img" />'
+    },
+    layout: 'vertical',
     "contents": {
       "img": false,
       "imgWithCarousel": true,
       "button": false,
-      "buttonWithQuantity": true
+      "buttonWithQuantity": true,
+      quantityIncrement: true,
+      quantityDecrement: true
     },
     "styles": {
       "product": {
