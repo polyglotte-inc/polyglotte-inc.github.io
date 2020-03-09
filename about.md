@@ -15,8 +15,6 @@ In September, 2014 Apple opened its doors to third-party keyboards, and our [uni
 
 Our keyboard now supports 25 languages and more than 250 symbols. Type in multiple languages without losing your train of thought, stopping to look up a special character, or Googling a word to copy and paste it into your document.
 
-Because few people speak 25 languages, we’ve made our keyboard customizable. Users are able to choose which of the 25 languages they prefer to write in, and deactivate the others. We have also created a simple one-step learning process that allows users to quickly take advantage of the new capabilities introduced by our multilingual keyboard. Soon, with the help of our new partner (to be announced), we will launch a new keycap set that is compatible with ANSI as well as many popular mechanical keyboards.
-
 Our new mechanical keycap sets are also compatible with ISO.
 
 What is [ISO](https://deskthority.net/wiki/ANSI_vs_ISO) and why does it matter?
