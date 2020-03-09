@@ -1,6 +1,7 @@
 ---
-title: Products
+smalltitle: Products
 showtop: true
+showbottom: false
 ---
 
 # Keyboards

@@ -44,7 +44,11 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
+titles_from_headings:
+  enabled: true
+  strip_title: true # Prevents double titles on the Product Page
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-titles-from-headings

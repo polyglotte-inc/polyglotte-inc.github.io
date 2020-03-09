@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
-showtop: true
+showtop: false
+showbottom: true
 ---
 
 Privacy Policy of Polyglotte İnc.
