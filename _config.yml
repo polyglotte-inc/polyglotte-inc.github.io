@@ -1,4 +1,5 @@
 title: Polyglotte
+subtitle: One keyboard - Many languages
 author: Daniela Semeco, CEO
 description: > # this means to ignore newlines until "show_excerpts:"
   „By words the mind is winged.“ -Aristophanes
@@ -8,6 +9,7 @@ url: https://www.polykeyboards.com/
 theme: minima
 header_pages:
   - index.md
+  - about.md
   - privacypolicy.md
 github:
   is_project_page: false
@@ -42,11 +44,6 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
 
 plugins:
  - jekyll-feed

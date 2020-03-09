@@ -28,6 +28,23 @@
   }
 }
 
+.site-subtitle {
+  @include relative-font-size(1.25);
+  font-weight: 300;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  @include media-query($on-palm) {
+    padding-right: 45px;
+  }
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}
+
 .site-nav {
   position: absolute;
   top: 9px;
