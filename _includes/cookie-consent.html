@@ -1,0 +1,45 @@
+<style>
+    #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
+    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }
+</style>
+<div id="cookie-notice"><span>We use Google Analytics for aggregated, anonymized website traffic analysis. In order to track your session usage, Google drops a cookie (_ga) with a randomly-generated ClientID in your browser. This ID is anonymized and contains no identifiable information like email, phone number, name, etc. We also send Google your IP Address. We use GA to track aggregated website behavior, such as what pages you looked at, for how long, and so on. This information is important to us for improving the user experience and determining site effectiveness. If you would like to access what browsing information we have - or ask us to delete any GA data - please delete your _ga cookies, reach out to us via this form, and/or install the <a href="https://tools.google.com/dlpage/gaoptout" class="btn btn-primary btn-sm">Google Analytics Opt-Out Browser Add-On</a>.</span><a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a></div>
+<script>
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    if(readCookie('cookie-notice-dismissed')=='true') {
+        {% include ga.js %}
+    } else {
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-dismissed','true',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+</script>
