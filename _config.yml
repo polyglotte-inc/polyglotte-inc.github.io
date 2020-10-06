@@ -13,6 +13,8 @@ header_pages:
   - privacypolicy.md
 github:
   is_project_page: false
+  
+google_analytics: UA-179861924-1
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
