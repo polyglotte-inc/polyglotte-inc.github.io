@@ -4,8 +4,8 @@ author: Daniela Semeco, CEO
 description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
-email: daniela@polykeyboards.com
-url: https://www.polykeyboards.com/
+email: daniela@polyglotte.io
+url: https://www.polyglotte.io/
 theme: minima
 header_pages:
   - index.md
